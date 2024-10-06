@@ -8,5 +8,6 @@ The aim of the project is to create a divulgative and educating tool for middle 
 Bear in mind that you need to install ursina package to make the app run.
 
 
-https://github.com/user-attachments/assets/c4f77366-8e76-48c0-a542-26f3c447b30a
+https://github.com/user-attachments/assets/132a7abd-d137-4040-bdf9-5fd14277f5cc
+
 
