@@ -6,3 +6,7 @@ So far, our solution has 18 exoplanets from which we can explore the night sky.
 The aim of the project is to create a divulgative and educating tool for middle school students that explains astronomy concepts related to constellations and stars.
 
 Bear in mind that you need to install ursina package to make the app run.
+
+
+https://github.com/user-attachments/assets/c4f77366-8e76-48c0-a542-26f3c447b30a
+
